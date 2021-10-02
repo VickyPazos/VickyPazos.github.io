@@ -546,13 +546,7 @@ transition: background-color 0.8s linear 0.02s;
     {  width:300px;
        overflow:hidden;}
 
-#retrato__skills{
-  grid-area: retrato__skills;
-  display:flex;
-  flex-direction: column;
-  margin-top: 150px;
 
-}
 #enumeracion__skills {
     display: flex;
     justify-content: space-between;
